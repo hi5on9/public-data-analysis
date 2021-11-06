@@ -1,5 +1,5 @@
 # public_data_analysis
 
 참고 사이트
-49. AHP(Analytical Hierarchy Process)에 대한 이해
-AHP(Analytic Hierarchy Process)
+- https://datascream.co.kr/136
+- https://blog.naver.com/hshklee/70072990940
